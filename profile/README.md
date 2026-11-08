@@ -13,6 +13,7 @@
 </a>
 
 <p align="center">
+  <a href="https://icorete.ch"><b>icorete.ch</b></a> &nbsp;·&nbsp;
   <a href="https://audiobox.fm"><b>AudioBox</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/icoretech/airbroke"><b>Airbroke</b></a> &nbsp;·&nbsp;
   <a href="https://codex-pooler.com"><b>Codex Pooler</b></a> &nbsp;·&nbsp;

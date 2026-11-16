@@ -34,12 +34,12 @@
 | Project | What it is | Stars | Latest |
 | :--- | :--- | ---: | :--- |
 | [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 242 | v0.15.1 |
-| [airbroke](https://github.com/icoretech/airbroke) | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | v1.4.10 |
+| [airbroke](https://github.com/icoretech/airbroke) | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | v1.4.11 |
 | [helm](https://github.com/icoretech/helm) | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | — |
-| [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 31 | v0.3.1 |
-| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 29 | v0.2.73 |
-| [spotify-client](https://github.com/icoretech/spotify-client) | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | v1.1.2 |
+| [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 31 | v0.3.2 |
+| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 29 | — |
+| [spotify-client](https://github.com/icoretech/spotify-client) | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | v2.0.0 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.1 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.7 |
 
-<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-15</sub>
+<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-16</sub>

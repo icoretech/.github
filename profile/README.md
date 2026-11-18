@@ -1,14 +1,14 @@
 <a href="https://github.com/icoretech#gh-light-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/banner-light-mobile.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="iCoreTech, Inc.: Media platforms, infrastructure tools and carefully shipped software. The iCoreTech bot at the core, with open-source projects in orbit: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages.">
+  <img src="assets/banner-light.svg" width="100%" alt="iCoreTech, Inc.: Media platforms, infrastructure tools and carefully shipped software. The iCoreTech bot at the core, with open-source projects in orbit: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages.">
 </picture>
 </a>
 
 <a href="https://github.com/icoretech#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 1079px)" srcset="assets/banner-dark-mobile.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="iCoreTech, Inc.: Media platforms, infrastructure tools and carefully shipped software. The iCoreTech bot at the core, with open-source projects in orbit: codex-pooler, airbroke, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages.">
+  <img src="assets/banner-dark.svg" width="100%" alt="iCoreTech, Inc.: Media platforms, infrastructure tools and carefully shipped software. The iCoreTech bot at the core, with open-source projects in orbit: codex-pooler, airbroke, nod, helm, wootty, warden-mcp, spotify-client, mattermost-timeline, mattermost-voice-messages.">
 </picture>
 </a>
 
@@ -33,13 +33,14 @@
 
 | Project | What it is | Stars | Latest |
 | :--- | :--- | ---: | :--- |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 243 | v0.16.0 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 245 | v0.16.3 |
 | [airbroke](https://github.com/icoretech/airbroke) | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | v1.4.11 |
+| [nod](https://github.com/icoretech/nod) | A browser extension for X: see who follows you, right beside each post. | 0 | v0.1.1 |
 | [helm](https://github.com/icoretech/helm) | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | — |
-| [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 31 | v0.3.2 |
-| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 29 | — |
+| [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 32 | v0.3.2 |
+| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 30 | — |
 | [spotify-client](https://github.com/icoretech/spotify-client) | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | v2.0.0 |
-| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.1 |
-| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.7 |
+| [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.2 |
+| [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.8 |
 
 <sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-18</sub>

@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://icorete.ch"><b>icorete.ch</b></a> &nbsp;·&nbsp;
   <a href="https://audiobox.fm"><b>AudioBox</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/icoretech/airbroke"><b>Airbroke</b></a> &nbsp;·&nbsp;
+  <a href="https://airbroke.icorete.ch"><b>Airbroke</b></a> &nbsp;·&nbsp;
   <a href="https://codex-pooler.com"><b>Codex Pooler</b></a> &nbsp;·&nbsp;
   <a href="https://x.com/icoretech_inc"><b>X</b></a> &nbsp;·&nbsp;
   <a href="mailto:public@icorete.ch"><b>public@icorete.ch</b></a>
@@ -26,7 +26,7 @@
 ### What we make
 
 - **[AudioBox](https://audiobox.fm)** — The definitive home for your media library, in the cloud.
-- **[Airbroke](https://github.com/icoretech/airbroke)** — Self-hosted, Sentry-compatible error catcher.
+- **[Airbroke](https://airbroke.icorete.ch)** — Self-hosted, Sentry-compatible error catcher.
 - **[Codex Pooler](https://codex-pooler.com)** — The self-hosted Codex gateway for teams and agents.
 
 ### Open source

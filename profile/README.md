@@ -35,7 +35,7 @@
 | :--- | :--- | ---: | :--- |
 | [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 245 | v0.16.3 |
 | [airbroke](https://github.com/icoretech/airbroke) | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | v1.4.12 |
-| [nod](https://github.com/icoretech/nod) | A browser extension for X: see who follows you, right beside each post. | 0 | v0.1.1 |
+| [nod](https://github.com/icoretech/nod) | A browser extension for X: see who follows you, right beside each post. | 0 | v0.2.0 |
 | [helm](https://github.com/icoretech/helm) | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | — |
 | [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 32 | v0.3.2 |
 | [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 30 | — |

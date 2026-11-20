@@ -33,7 +33,7 @@
 
 | Project | What it is | Stars | Latest |
 | :--- | :--- | ---: | :--- |
-| [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 245 | v0.16.4 |
+| [codex-pooler](https://github.com/icoretech/codex-pooler) | The self-hosted Codex gateway for teams, agents and you. | 244 | v0.16.4 |
 | [airbroke](https://github.com/icoretech/airbroke) | Open-source, Sentry-compatible error catcher. Self-hosted, Postgres-backed. | 221 | v1.4.12 |
 | [nod](https://github.com/icoretech/nod) | A browser extension for X: see who follows you, right beside each post. | 0 | v0.2.0 |
 | [helm](https://github.com/icoretech/helm) | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | — |
@@ -43,4 +43,4 @@
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.2 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.8 |
 
-<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-19</sub>
+<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-20</sub>

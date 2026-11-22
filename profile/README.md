@@ -38,7 +38,7 @@
 | [nod](https://github.com/icoretech/nod) | A browser extension for X: see who follows you, right beside each post. | 0 | v0.2.0 |
 | [helm](https://github.com/icoretech/helm) | The iCoreTech Helm charts: opinionated Kubernetes deployments. | 18 | — |
 | [wootty](https://github.com/icoretech/wootty) | A browser terminal for shells, coding agents and long-running work. | 32 | v0.3.2 |
-| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 32 | — |
+| [warden-mcp](https://github.com/icoretech/warden-mcp) | Vaultwarden / Bitwarden MCP server for credential-aware AI agents. | 33 | — |
 | [spotify-client](https://github.com/icoretech/spotify-client) | A Ruby client for the Spotify Web API. Small, complete, tested. | 79 | v2.0.0 |
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.2 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.8 |

@@ -43,4 +43,4 @@
 | [mattermost-timeline](https://github.com/icoretech/mattermost-timeline) | Webhook-powered event timeline for Mattermost: deploys, alerts, incidents. | 11 | v2.2.3 |
 | [mattermost-voice-messages](https://github.com/icoretech/mattermost-voice-messages) | WhatsApp-style voice messages for Mattermost channels and threads. | 10 | v0.3.9 |
 
-<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-27</sub>
+<sub>Stars and releases are refreshed daily from public GitHub data · Updated 2026-11-28</sub>
